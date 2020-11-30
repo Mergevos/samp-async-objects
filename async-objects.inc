@@ -4,6 +4,7 @@
 	* Date: 30. Novembre 2020.
 	* Copyright: (C) 2020
 	* Credits: 
+        IllidanS4 - PawnPlus
         Graber - Snippets from async-dialogs.inc. 
 */
 
